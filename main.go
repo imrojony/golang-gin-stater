@@ -7,8 +7,9 @@ import (
 
 func main() {
 	r := gin.Default()
+	r.LoadHTMLGlob("templates/**/*.html")
 	r.GET("/", func(c *gin.Context) {
-		c.String(http.StatusOK,"hello from %v", "gin framework")
+		c.HTML(http.StatusOK,"index.html",nil)
 	})
 
 	r.Run(":4200")
