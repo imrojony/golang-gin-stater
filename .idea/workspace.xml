@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d45cdda3-999f-437f-b2d4-022e411521e3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/views/admin-overview.html" afterPath="$PROJECT_DIR$/templates/views/admin-overview.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/views/login.html" afterPath="$PROJECT_DIR$/templates/views/login.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,21 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin-overview.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="admin-overview.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/views/admin-overview.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
+            <state relative-caret-position="1207">
               <caret line="81" column="7" lean-forward="true" selection-start-line="81" selection-start-column="7" selection-end-line="81" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/views/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="25" column="48" lean-forward="false" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+            <state relative-caret-position="242">
+              <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -78,10 +78,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/templates/views/login.html" />
         <option value="$PROJECT_DIR$/templates/views/index.html" />
         <option value="$PROJECT_DIR$/main.go" />
         <option value="$PROJECT_DIR$/templates/views/admin-overview.html" />
+        <option value="$PROJECT_DIR$/templates/views/login.html" />
       </list>
     </option>
   </component>
@@ -285,12 +285,12 @@
       <workItem from="1525533937874" duration="267000" />
       <workItem from="1525624350882" duration="305000" />
       <workItem from="1525715969808" duration="101000" />
-      <workItem from="1525792254767" duration="3750000" />
+      <workItem from="1525792254767" duration="4711000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8913000" />
+    <option name="totallyTimeSpent" value="9874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1280" height="775" extended-state="6" />
@@ -443,14 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/views/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="25" column="48" lean-forward="false" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
@@ -479,8 +471,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/views/admin-overview.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
+        <state relative-caret-position="1207">
           <caret line="81" column="7" lean-forward="true" selection-start-line="81" selection-start-column="7" selection-end-line="81" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
           <folding />
         </state>
       </provider>
