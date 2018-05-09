@@ -18,11 +18,13 @@ func main() {
 
 	})
 
+
 	admin := r.Group("/admin")
 	admin.GET("/", func(c *gin.Context) {
 		c.HTML(http.StatusOK, "admin-overview.html",nil)
 
 	})
+	r.Static("/public","./public")
 
 	r.Run(":4200")
 }
